@@ -1,6 +1,6 @@
-#NLP models implementation
+# NLP models implementation
 
-##Bigram model
+## Bigram model
 
 ```
     from bigram import Bigram
