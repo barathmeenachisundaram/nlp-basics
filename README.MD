@@ -10,5 +10,5 @@
 ```
 
 ```bash
-python bigram
+python bigram.py
 ```
